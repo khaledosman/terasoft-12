@@ -1,0 +1,7 @@
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation.Pipeline\bin\x86\Debug\GifAnimation.Pipeline.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation.Pipeline\bin\x86\Debug\GifAnimation.Pipeline.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation.Pipeline\bin\x86\Debug\GifAnimation.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation.Pipeline\bin\x86\Debug\GifAnimation.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation.Pipeline\obj\x86\Debug\GifAnimation.Pipeline.csprojResolveAssemblyReference.cache
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation.Pipeline\obj\x86\Debug\GifAnimation.Pipeline.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation.Pipeline\obj\x86\Debug\GifAnimation.Pipeline.pdb

@@ -1,0 +1,6 @@
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation\bin\x86\Debug\GifAnimation.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation\bin\x86\Debug\GifAnimation.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation\obj\x86\Debug\GifAnimation.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation\obj\x86\Debug\GifAnimation.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\GifAnimation\obj\x86\Debug\GifAnimation.csprojResolveAssemblyReference.cache

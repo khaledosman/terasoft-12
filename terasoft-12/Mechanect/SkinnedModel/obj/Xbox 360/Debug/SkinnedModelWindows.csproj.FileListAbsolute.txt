@@ -1,0 +1,6 @@
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\SkinnedModel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\SkinnedModel\obj\Xbox 360\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache

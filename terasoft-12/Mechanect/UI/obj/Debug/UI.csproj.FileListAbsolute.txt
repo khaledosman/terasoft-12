@@ -1,0 +1,17 @@
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\UI.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\UI.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\GifAnimation.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Physics.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\SkinnedModel.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\GifAnimation.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Physics.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\SkinnedModel.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\obj\Debug\UI.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\UI\obj\Debug\UI.pdb

@@ -1,0 +1,6 @@
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\Physics\bin\Debug\Physics.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\Physics\bin\Debug\Physics.pdb
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\Physics\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\Physics\bin\Debug\Microsoft.Xna.Framework.xml
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\Physics\obj\Debug\Physics.dll
+C:\Users\khaled\Documents\GitHub\terasoft-12\terasoft-12\Mechanect\Physics\obj\Debug\Physics.pdb
